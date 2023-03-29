@@ -1244,8 +1244,7 @@ input::-moz-focus-inner {
 }
 
 .home-logo img {
-  width: 100px;
-  height: 25px;
+  width: 150px;
 }
 
 
@@ -1973,13 +1972,10 @@ html.no-csstransitions .home-content__main {
     min-height: 630px;
   }
 
-  .home-logo {
-    right: 30px;
-  }
 
   .home-logo img {
-    width: 95px;
-    height: 24px;
+    width: 150px;
+    margin-right: 65px;
   }
 
   .home-content h1 {
